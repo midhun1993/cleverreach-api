@@ -1,0 +1,16 @@
+{
+  "name": "midhun/cleverreach-api",
+  "description": "RESTful API of CleverReach",
+  "version": "1.0.0-dev",
+  "license": "MIT",
+  "authors": [{
+    "name": "Midhun P M",
+    "email": "midhun.pm@outlook.com",
+    "role": "Developer"
+  }],
+  "autoload": {
+    "psr-4": {
+      "Midhun\\CleverReach\\": "src/"
+    }
+  }
+}
